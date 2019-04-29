@@ -1,0 +1,158 @@
+.phone {
+	background-color: #fcf7e4;
+}
+.h1 {
+  font-size: 23px;
+  font-family: "Tahoma", sans-serif;
+  color: #262626;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 0.726;
+  text-align: center;
+  Margin-bottom: 0px;
+}
+.p1 {
+  font-size: 15px;
+  font-family: "Georgia", serif;
+  color: #4c4b48;
+  line-height: 1.333;
+  text-align: center;
+   Margin-bottom: 0px;
+}
+.read {
+  font-size: 20px;
+  font-family: "Tahoma";
+  color: #007cab;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 2;
+  text-align: left;
+   Margin-bottom: 0px;
+}
+
+
+.h2 {
+  font-size: 24px;
+  font-family: "Tahoma", sans-serif;
+  color: #007cab;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.391;
+  text-align: center;
+  Margin-bottom: 0px;
+}
+.h3{
+  font-size: 17px;
+  font-family: "Tahoma", sans-serif;
+  color: #262626;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.294;
+  text-align: center;
+  Margin-bottom: 0px;
+}
+.p_img {
+  font-size: 16px;
+  font-family: "Tahoma", sans-serif;
+  color: rgba(76, 75, 72, 0.4);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 2.5;
+  text-align: left;
+  Margin-bottom: 0px;
+}
+.name {
+  font-size: 17px;
+  font-family: "Tahoma", sans-serif;
+  color: #262626;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.294;
+  text-align: left;
+  Margin-bottom: 0px;
+}
+.p_name {
+  font-size: 15px;
+  font-family: "Georgia", serif;
+  color: #4c4b48;
+  line-height: 1.333;
+  text-align: left;
+   Margin-bottom: 0px;
+}
+.p_ps {
+  font-size: 12px;
+  font-family: "Tahoma", sans-serif;
+  color: #4c4b48;
+  line-height: 1.333;
+  text-align: left;
+  Margin-bottom: 0px;
+}
+.number {
+  font-size: 23px;
+  font-family: "Tahoma", sans-serif;
+  color: #262626;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 0.726;
+  text-align: center;
+  Margin-bottom: 0px;
+}
+.h4 {
+  font-size: 20px;
+  font-family: "Tahoma", sans-serif;
+  color: #4c4b48;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.669;
+  text-align: center;
+  Margin-bottom: 0px;
+}
+._01_ {
+  font-size: 20px;
+  font-family: "Georgia";
+  color: #007cab;
+  line-height: 1.5;
+  text-align: left;
+
+}
+.Только_для_подписчиков_мы_добавляем_5__к_любой_ {
+  font-size: 15px;
+  font-family: "Tahoma";
+  color: #4c4b48;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.333;
+  text-align: center;
+
+}
+.Только_для_подписчиков_мы_добавляем_5__к_любой_ {
+  font-size: 15px;
+  font-family: "Tahoma";
+  color: #4c4b48;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.333;
+  text-align: center;
+  -moz-transform: matrix( 0.5,0,0,0.5,0,0);
+  -webkit-transform: matrix( 0.5,0,0,0.5,0,0);
+  -ms-transform: matrix( 0.5,0,0,0.5,0,0);
+  position: absolute;
+  left: -27.219px;
+  top: 4409.52px;
+  width: 1078.103px;
+  height: 112px;
+  z-index: 155;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
